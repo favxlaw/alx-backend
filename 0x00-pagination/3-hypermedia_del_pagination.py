@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Deletion-resilient hypermedia pagination
 """
-import data.csv
+import csv
 from typing import Dict, List
 
 

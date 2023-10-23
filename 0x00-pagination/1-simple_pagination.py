@@ -2,7 +2,7 @@
 """Simple pagination
     Copy index_range from the previous task
 """
-import data.csv
+import csv
 from typing import List, Tuple
 
 
